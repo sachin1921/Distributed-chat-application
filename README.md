@@ -1,4 +1,4 @@
-# assignment2fall2019
+# Distributed chat application
 * To run the server, execute the ChatServer file, the rmi registery code is in the server file so it doesn't have to be run seperately
 * To run the client, execute the ClientRMIGUI file, under the client folder
 
